@@ -13,7 +13,22 @@
 ![Azure ML](https://img.shields.io/badge/Azure%20ML-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-%2300ADD8.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative%20AI-%2300D8FF.svg?style=for-the-badge&logo=openai&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-%2300D8FF.svg?style=for-the-badge&logo=openai&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-%230084FF.svg?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-%23009688.svg?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-%2300BFFF.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-%2300ADD8.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%2300D8FF.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%2300ADEF.svg?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-%23FF9E00.svg?style=for-the-badge)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sreelekshmisaju&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>

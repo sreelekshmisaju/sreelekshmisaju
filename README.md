@@ -1,10 +1,22 @@
-#  About Me:
-Completed M.Tech in Computer Science & Engineering (AI & ML) from Amrita Vishwa Vidyapeetham<br> A passionate professional with interests in Machine Learning, Deep Learning, Artificial Intelligence, Software Development, and Web Development.<br> Always learning and staying updated with the latest technologies in AI, ML, and web development<br> Open to opportunities in Software Development, Machine Learning, AI Research, and Python Development<br> Portfolio: https://portfolio-orpin-five-78.vercel.app/<br><br>---<br><br> Motivated and detail-oriented Software Development Engineer with a strong academic background in Computer Science and a solid understanding of programming, data structures, and algorithms.<br> Proficient in Python, Machine Learning, Deep Learning, and web technologies, with hands-on experience developing projects using modern frameworks.<br> Eager to contribute to real-world projects, adapt quickly to new technologies, and grow in a collaborative, fast-paced engineering environment.
+## 👋 About Me
 
+M.Tech graduate in **Computer Science & Engineering (Artificial Intelligence & Machine Learning)** from **Amrita Vishwa Vidyapeetham**.  
+Strong foundation in **Python, Data Structures, Algorithms, Machine Learning, and Deep Learning**, with hands-on experience building academic and practical projects using modern frameworks.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sreelekshmisaju/) [![leetcode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Vos3XOolWP/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/s_re_e_zz/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreelekshmisajuk@gmail.com) 
+Actively exploring **Software Development, Machine Learning, AI Research, and Python Development**, with a focus on writing clean, efficient, and maintainable code.  
+Comfortable adapting to new technologies and contributing in fast-paced, collaborative environments.
+
+🔗 **Portfolio:** https://portfolio-sreelekshmi.vercel.app/
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreelekshmisaju/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Vos3XOolWP/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/s_re_e_zz/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreelekshmisajuk@gmail.com)
+
 
 # 💻 Tech Stack:
 

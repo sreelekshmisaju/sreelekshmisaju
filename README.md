@@ -1,12 +1,17 @@
 ## 👋 About Me
 
-M.Tech graduate in **Computer Science & Engineering (Artificial Intelligence & Machine Learning)** from **Amrita Vishwa Vidyapeetham**.  
-Strong foundation in **Python, Data Structures, Algorithms, Machine Learning, and Deep Learning**, with hands-on experience building academic and practical projects using modern frameworks.
+AI/ML Engineer with a strong foundation in **Machine Learning, Deep Learning, and Large Language Models**, focused on building **scalable, production-ready AI solutions** that translate research into real-world impact.
 
-Actively exploring **Software Development, Machine Learning, AI Research, and Python Development**, with a focus on writing clean, efficient, and maintainable code.  
-Comfortable adapting to new technologies and contributing in fast-paced, collaborative environments.
+Core expertise includes **Machine Learning, Deep Learning, NLP, Computer Vision, Transformer-based models, LLM fine-tuning, Retrieval-Augmented Generation (RAG), and Prompt Engineering**.  
+Hands-on experience across the full ML lifecycle using **Python, PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, and NumPy** — from data preprocessing and model training to evaluation and deployment.
+
+Worked on multiple **applied AI projects** addressing real-world problem statements, including research-driven solutions and **end-to-end ML pipelines**.  
+Experience integrating AI models into backend services and deploying AI applications using **Flask, Django, and Streamlit**.
+
+Actively seeking opportunities as an **AI/ML Engineer, NLP Engineer, LLM Engineer, Generative AI Developer, or Computer Vision Engineer** (on-site, hybrid, or remote).
 
 🔗 **Portfolio:** https://portfolio-sreelekshmi.vercel.app/
+
 
 ---
 
